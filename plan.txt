@@ -1,10 +1,67 @@
-Joshua Remlinger		About (this is the page you start on) | Resume | Web Projects | Other | Contact
+(Title Bar, Same across all pages)
 
-About --
+Joshua Remlinger		About (this is the page you start on) | Resume | Web Projects | Music | Other 
 
-	Stuff about me like some acomplishments and skills and maybe interests.
 
-Resume --
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+About Page (Will be the opening page)
+
+	Joshua Remlinger is a software/web designer and programmer. As well as a music producer. At the age of 14 his love for programming began as he got 
+	heavily interested in modding PC video games. Due to the sparse resources he could find online he had to learn everything from scratch with no guide into 
+	the specifics of what he had to do, which built up a solid framework for his future programming ventures. During high school his love for programming grew 
+	even more, eventually becoming one of his favorite past-times. In high school Joshua also discovered the world of music production, and was drawn to it because 
+	of how similar it feels to programming, but with a much more artistic result. By the end of high school Joshua was en route to college for computer programming, 
+	as well as signed to a music label which releases and promotes the music that he still makes in his free-time. 
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Resume Page
 	
-	Just copy pase my resume
+	Lebanon, PA
+	pickichu@icloud.com
+	(717) 450-2085
 
+	Authorized to work in the US for any employer
+
+	Work Experience
+		Crew Member
+		Dairy Queen - Lebanon. PA
+			Prepared and served food
+			Cleaned dishes
+			Cleared tables
+			Closed and cleaned dining room
+
+		Crew Member
+		Wendy's - Lebanon. PA
+			Communicated with vendors
+			Welcomed all customers
+			Took customer orders
+			Ran the cash register
+			Cleared tables
+			Provided exceptional customer service
+
+		Education
+				High school or equivalent
+				Lebanon High School - Lebanon, PA
+				September 2015 to June 2019
+
+		Skills
+			Customer Service
+			Mathematics
+			Computer Skills
+			Cleaning Experience
+			Technical Support
+		
+		Awards
+			Workplace Readiness Certificate - 2019
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Web Projects
+(Here I plan to just have embeds of my web projects with their titles and a small description. Same for music and other page.)
