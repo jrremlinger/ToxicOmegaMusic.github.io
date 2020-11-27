@@ -1,6 +1,6 @@
 (Title Bar, Same across all pages)
 
-Joshua Remlinger		About (this is the page you start on) | Resume | Web Projects | Music | Misc
+Joshua Remlinger		Main (this is the page you start on) | Resume | Projects | Music | Contact
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

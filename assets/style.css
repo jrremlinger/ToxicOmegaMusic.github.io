@@ -1,0 +1,109 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(journey.jpg);
+}
+
+#nav {
+	-webkit-user-select: none;
+	position: fixed;
+	width: 100%;
+	background-color: rgb(212, 219, 219);
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.3rem;
+	color: darkslategray;
+	border-bottom: 0.3rem solid darkseagreen;
+}
+#nav-title, #nav-links li {
+	margin: 1.1rem;
+}
+#nav-title {
+	padding: 0 1rem;
+	font-size: 1.6rem;
+	font-weight: bold;
+}
+#nav-links {
+	padding: 0 2rem;
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+}
+#nav-links li a, #nav-sel div {
+	margin: 0 0.8rem;
+	padding: 0 1.1rem;
+	border: 0.1rem solid darkslategray;
+	border-top: none;
+	border-bottom: none;
+	color: darkslategray;
+	text-decoration: none;
+}
+#nav-sel div {
+	border-color: darkseagreen;
+	color: darkseagreen;
+}
+
+#content-area {
+	padding-top: 5rem;
+}
+
+.content-box {
+	margin: 2rem auto;
+	padding: 1.5rem;
+	display: flex;
+	flex-wrap: wrap;
+	width: 50%;
+	text-align: center;
+	background-color: rgb(212, 219, 219);
+	border: 0.3rem solid darkseagreen;
+	font-size: 1.3rem;
+}
+.content-box label {
+	margin: auto;
+	padding-bottom: 1rem;
+	font-size: 1.8rem;
+	font-weight: bold;
+}
+
+
+@media only screen and (max-width: 1130px) {
+	#nav, #nav-links {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	#nav-links li a, #nav-sel div {
+		margin: 0 0.2rem;
+	}
+
+	.content-box {
+		width: 90%;
+	}
+}
+@media only screen and (max-width: 1030px) {
+	#content-area {
+		padding-top: 9rem;
+	}
+}
+@media only screen and (max-width: 782px) {
+	#nav {
+		position: static;
+	}
+	
+	#content-area {
+		padding-top: 1rem;
+	}
+}
+@media only screen and (max-width: 504px) {
+	#content-area {
+
+	}
+}
+@media only screen and (max-width: 358px) {
+	#content-area {
+		
+	}
+}
