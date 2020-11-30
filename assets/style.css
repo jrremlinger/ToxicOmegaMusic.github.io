@@ -96,10 +96,9 @@ body {
 	text-decoration: none;
 	color: rgb(138, 167, 152);
 	background-color: rgb(6, 48, 48);
-	border-radius: 5%;
-	padding: 0.2rem 0.4rem;
+	border-radius: 0.5rem;
+	padding: 0.3rem 0.6rem;
 	margin: 1rem auto;
-	display: inline;
 }
 
 
