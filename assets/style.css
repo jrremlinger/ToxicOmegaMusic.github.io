@@ -47,6 +47,11 @@ body {
 	color: darkseagreen;
 }
 
+/* REMOVE MUSIC AS ITS CURRENTLY EMPTY */
+#nav-links :nth-child(4) {
+	display: none;
+}
+
 #content-area {
 	display: flex;
 	flex-wrap: wrap;
@@ -85,6 +90,16 @@ body {
 }
 .content-box > * {
 	padding: 1rem 0;
+}
+
+.dl-button {
+	text-decoration: none;
+	color: rgb(138, 167, 152);
+	background-color: rgb(6, 48, 48);
+	border-radius: 5%;
+	padding: 0.2rem 0.4rem;
+	margin: 1rem auto;
+	display: inline;
 }
 
 
