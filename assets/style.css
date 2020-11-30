@@ -48,18 +48,22 @@ body {
 }
 
 #content-area {
-	padding-top: 5rem;
-}
-
-.content-box {
-	margin: 2rem auto;
-	padding: 1.5rem;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	flex-flow: column;
+	padding-top: 5rem;
+}
+
+.content-box {
+	margin: 0.5rem auto;
+	padding: 0.5rem 3rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	flex-flow: column;
+	max-width: 50%;
 	align-items: center;
-	width: 50%;
 	text-align: center;
 	background-color: rgb(212, 219, 219);
 	border: 0.3rem solid darkseagreen;
@@ -94,7 +98,7 @@ body {
 	}
 
 	.content-box {
-		width: 90%;
+		max-width: 90%;
 	}
 }
 @media only screen and (max-width: 1030px) {
