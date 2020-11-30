@@ -5,7 +5,7 @@
 }
 
 body {
-	background-image: url(journey.jpg);
+	background-image: url(img/journey.jpg);
 }
 
 #nav {
@@ -56,6 +56,9 @@ body {
 	padding: 1.5rem;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
+	flex-flow: column;
+	align-items: center;
 	width: 50%;
 	text-align: center;
 	background-color: rgb(212, 219, 219);
@@ -67,6 +70,17 @@ body {
 	padding-bottom: 1rem;
 	font-size: 1.8rem;
 	font-weight: bold;
+}
+.content-box hr {
+	padding: 0;
+	width: 70%;
+	height: 0.1rem;
+}
+.content-box li {
+	text-align: left;
+}
+.content-box > * {
+	padding: 1rem 0;
 }
 
 
@@ -92,18 +106,8 @@ body {
 	#nav {
 		position: static;
 	}
-	
+
 	#content-area {
 		padding-top: 1rem;
-	}
-}
-@media only screen and (max-width: 504px) {
-	#content-area {
-
-	}
-}
-@media only screen and (max-width: 358px) {
-	#content-area {
-		
 	}
 }
